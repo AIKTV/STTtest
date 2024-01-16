@@ -662,4 +662,4 @@ cython_debug/
 .idea/
 
 /test
-/output
+!/output
