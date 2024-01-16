@@ -4,3 +4,6 @@
 [submodule "model/faster-whisper-large-v3"]
 	path = model/faster-whisper-large-v3
 	url = https://huggingface.co/Systran/faster-whisper-large-v3
+[submodule "faster-whisper"]
+	path = faster-whisper
+	url = https://github.com/SYSTRAN/faster-whisper.git
