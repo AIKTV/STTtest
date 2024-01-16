@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:04,420
+Long long ago, there was a king. He likes new clothes.
+
+2
+00:00:04,840 --> 00:00:07,320
+One day the two men visited the king.
+
+3
+00:00:07,500 --> 00:00:10,240
+My king, we can make new clothes for you.
+
+4
+00:00:10,420 --> 00:00:11,660
+The king was happy.
+
